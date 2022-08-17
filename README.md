@@ -24,3 +24,9 @@ CMPG-323-Project4-35124776 repo will be created, it will store the activities of
 CMPG-323-Project4-35124776 repo will be created, it will store the activities of project 5
 
 ## Diagram explaining project and repository context and how they are integrated
+
+## Branching Stratergies to be used
+  # Project 1: No branching stratergy required. Only Main Branch
+  
+  #Project 2: Main
+    
