@@ -27,7 +27,15 @@ CMPG-323-Project4-35124776 repo will be created, it will store the activities of
   ![PROJ_DIAGRAM](https://user-images.githubusercontent.com/90704811/185258451-8a78f6f5-faba-469d-b534-e618be914134.png)
 
 ## Branching Stratergies to be used
-  ### Project 1: No branching stratergy required. Only Main Branch
+  ### Project 1: Only Main Branch is needed.
   
-  ### Project 2: Main
+  ### Project 2: For this Project I will be using a branching stratergy known as GitHub Flow. I will be creating a few features as well and then merged them back into       Main. I will use the Hotfix branch to solve the bugs that I might run into.
+      *Main
+      *Feature
+      *Hotfix  
+      
+  ### Project 4: For this Project I will also be using a branching stratergy known as GitHub Flow. A few features will be created and then merged them back into             Main. I will use the Hotfix branch to solve the bugs that I might run into.
+      *Main
+      *Feature
+      *Hotfix 
     
