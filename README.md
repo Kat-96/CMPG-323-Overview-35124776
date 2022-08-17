@@ -45,7 +45,7 @@ CMPG-323-Project4-35124776 repo will be created, it will store the activities of
       *Feature
       *Hotfix 
       
-   ### Project 2: For this Project I will be using a branching stratergy known as GitHub Flow. I will be creating a few features as well and then merged them back into       Main. I will use the Hotfix branch to solve the bugs that I might run into.
+   ### Project 5: For this Project I will be using a branching stratergy known as GitHub Flow. I will be creating a few features as well and then merged them back into       Main. I will use the Hotfix branch to solve the bugs that I might run into.
       *Main
       *Feature
       *Hotfix 
