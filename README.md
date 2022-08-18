@@ -28,7 +28,7 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
 
 ## Branching Stratergies to be used
  I will make use of a Branching Stratergy known as GitHub Flow.
- I will create the main branch and then proceed to creating new branches such as feature branches that stem directly from the master, and then merged back into main.
+ I will create the main branch and then proceed to creating new branches that I will be working in such as feature branches that stem directly from the master, and then merged back into main.
  
   ![Branching_Stratergy](https://user-images.githubusercontent.com/90704811/185412077-f35655c6-1509-42d4-8555-d9c655761c0d.png)
     
