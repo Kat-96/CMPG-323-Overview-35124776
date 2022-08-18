@@ -9,7 +9,7 @@ In this project, [CMPG-323-Overview---35124776](https://github.com/Kat-96/CMPG-3
 
 ## Project-2
 
-In this project I will create a repo called CMPG-323-Project2-35124776, which will basically be used to keep the activities of project 2
+In this project I will create a repo called [CMPG-323-Project2-35124776](https://github.com/Kat-96/CMPG-323-Project2-35124776), which will basically be used to keep the activities of project 2
 
 ## Project-3
 
