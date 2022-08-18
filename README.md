@@ -1,5 +1,5 @@
 # CMPG-323-Project
-This is a new project I will be working on for this semester
+This is a CMPG 323 project I will be working on for this semester
 
 ## Repositories for each project 
 
