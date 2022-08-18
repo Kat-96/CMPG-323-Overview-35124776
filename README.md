@@ -13,15 +13,15 @@ In this project I will create a repo called [CMPG-323-Project2-35124776](https:/
 
 ## Project-3
 
-For this project I will be creating a repo called CMPG-323-Project3-35124776, it will store the activities of project 3
+For this project I will be creating a repo called [CMPG-323-Project3-35124776](https://github.com/Kat-96/CMPG-323-Project3-35124776), it will store the activities of project 3
 
 ## Project-4
 
-CMPG-323-Project4-35124776 repo will be created, it will store the activities of project 4
+[CMPG-323-Project4-35124776](https://github.com/Kat-96/CMPG-323-Project4-35124776) repo will be created, it will store the activities of project 4
 
 ## Project-5
 
-CMPG-323-Project5-35124776 repo will be created, it will store the activities of project 5
+[CMPG-323-Project5-35124776](https://github.com/Kat-96/CMPG-323-Project5-35124776) repo will be created, it will store the activities of project 5
 
 ## Diagram explaining project and repository context and how they are integrated
   ![PROJ_DIAGRAM](https://user-images.githubusercontent.com/90704811/185258451-8a78f6f5-faba-469d-b534-e618be914134.png)
