@@ -54,4 +54,4 @@ CMPG-323-Project4-35124776 repo will be created, it will store the activities of
    For projects 2,3,4, and 5, I will create a .gitignore file which will store all the files I do not want appearing in my git repository
 
   ## Storage of Credentials and Sensitive Information
-  The storage of credentials and sensitive info will be stored on Azure
+  The storage of credentials and sensitive info will be done on Azure
