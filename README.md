@@ -30,7 +30,7 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
  I will make use of a Branching Stratergy known as GitHub Flow.
  I will create the main branch and then proceed to creating new branches that I will be working in such as feature branches that stem directly from the master, and then merged back into main.
  
-  ![Branching_Stratergy](https://user-images.githubusercontent.com/90704811/185412077-f35655c6-1509-42d4-8555-d9c655761c0d.png)
+  ![Branching_Stratergy_OR](https://user-images.githubusercontent.com/90704811/185413904-5fae41e3-b19c-463e-9590-4078b8187b22.png)
     
  ## The use of a .gitignore file within each project
    For projects 2,3,4, and 5, I will create a .gitignore file which will store all the files I do not want appearing in my git repository
