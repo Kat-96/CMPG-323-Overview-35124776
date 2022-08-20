@@ -30,6 +30,9 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
  I will make use of a Branching Stratergy known as GitHub Flow.
  I will create the main branch and then proceed to creating new branches that I will be working in such as feature branches that stem directly from the master, and then merged back into main.
  
+## Reference List
+  https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase.
+ 
   ![Branching_Stratergy_OR](https://user-images.githubusercontent.com/90704811/185413904-5fae41e3-b19c-463e-9590-4078b8187b22.png)
     
  ## The use of a .gitignore file within each project
