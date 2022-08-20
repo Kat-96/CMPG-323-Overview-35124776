@@ -39,4 +39,4 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
   The storage of credentials and sensitive info will be done on Azure
   
  ## Reference List
-  https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase.
+  https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase
