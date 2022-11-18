@@ -298,6 +298,36 @@ to be enhanced and improved. Therefore, I:
   To ensure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
   
 ## Project 4
+I will be making some Testing in this project, and I will be using Robotic Process Automation
+
+--Robotic Process Automation (RPA) refers to the use of technology to mimic human tasks in the same way that a person would execute a process.
+
+The project will be opened using UIPATH, where the automation will be implemented.
+
+Actions to be performed:
+1. Login 
+2. Category
+    * Creat Category
+    * Delete Categories
+    * Read Category
+    * update Category
+   
+3. Device
+    * Create Device
+    * Delete Device
+    * Read Device
+    * Update Device
+   
+4. Zones
+     * Delete Zones
+     * Create Zones 
+     * Read Zones
+     * Update Zones
+
+All the tests for the above can be found in their respective folders.
+
+Orchestrator
+![orchestrator screenshot](https://user-images.githubusercontent.com/90704811/198321653-b7ab4a55-794a-4ac7-9b0b-e69b47dda4b4.png)
 
  ## Reference List
   https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase
