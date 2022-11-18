@@ -48,6 +48,8 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
   ![Number of Items by Sprint](https://user-images.githubusercontent.com/90704811/202713219-29d72763-9dcb-4e3b-945a-3ebb5b331295.png)
 
 ## Project 2
+In this project I will be creating a CRUD RESTful API that will connect to a database storing IoT device data. The API will contain at least one get, post, patch and delete method per resource.
+
 ## List of all endpoints: 
 
 ### Register to get User autherization
