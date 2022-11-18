@@ -50,15 +50,36 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
 ## Project 2
 ## List of all endpoints: 
 
+### Register to get User autherization
+#### Request Body
+    curl -X 'POST' \
+      'https://cmpg323appservice.azurewebsites.net/api/Authenticate/register' \
+      -H 'accept: */*' \
+      -H 'Content-Type: application/json' \
+      -d '{
+      "username": "12345678",
+      "email": "Kat@gmail.com",
+      "password": "Kat@123"
+    }'
+
+     
+## User Login 
+#### Request
+      curl -X 'POST' \
+      'https://cmpg323appservice.azurewebsites.net/api/Authenticate/login' \
+      -H 'accept: */*' \
+      -H 'Content-Type: application/json' \
+      -d '{
+      "username": "12345678",
+      "password": "Kat@123"
+      }'
+        
+//COPY TOKEN 
+
 ## Authorize
 #### Response
   ![Authorization_Response](https://user-images.githubusercontent.com/90704811/189106951-42e3a336-f70e-454b-981f-cecfc9e4c770.png)
-  
-  
-   Screenshot of API MANAGEMENT:
-   
-   ![API_MANAGEMENT](https://user-images.githubusercontent.com/90704811/189646362-63a5ae28-a95a-432a-b784-cf10ab40ae72.png)
-
+ 
 //Now the user has been authorized
 
 ## GET all Device entries
@@ -231,6 +252,11 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
           "categoryDescription": "telecommunication medium for transmitting moving images and sound",
           "dateCreated": "2022-09-08T13:31:33.384Z"
         }'
+        
+  
+   Screenshot of API MANAGEMENT:
+   
+   ![API_MANAGEMENT](https://user-images.githubusercontent.com/90704811/189646362-63a5ae28-a95a-432a-b784-cf10ab40ae72.png)
         
  ## Reference List
   https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase
