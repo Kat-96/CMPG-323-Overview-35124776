@@ -39,7 +39,7 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
   The storage of credentials and sensitive info will be done on Azure
   
   
-##Projects Overview: 
+## Overview for Projects: 
 ## Project 1
   Number of Items By label
   ![Number of Items by Label](https://user-images.githubusercontent.com/90704811/202712319-92101276-640e-46f6-832b-93d8d362a370.png)
