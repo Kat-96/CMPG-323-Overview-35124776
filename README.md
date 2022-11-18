@@ -257,6 +257,44 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
  ## Screenshot of API MANAGEMENT:
    
    ![API_MANAGEMENT](https://user-images.githubusercontent.com/90704811/189646362-63a5ae28-a95a-432a-b784-cf10ab40ae72.png)
-        
+ 
+ ## Project 3
+ In this project, I was given an existing ASP.NET Core MVC Web Application that needed 
+to be enhanced and improved. Therefore, I: 
+  * used .NET CORE MVC Application 
+  * Applied Design Pattern
+  * Published the App to the service hosted on Azure and ensured that the App is secure and accessible
+
+# This is how the user would use the App
+  * The user would use this url => https://cmpg323webapplication1.azurewebsites.net to navigate to the hosted web application.
+  * The user can Register their own account and login with their provided credentials.
+  
+   ![Register](https://user-images.githubusercontent.com/90704811/193010714-6128c60d-14f4-41c0-ba7b-a74a6a25c455.png)
+
+    
+  * Or the user can use the provided Login credentials.
+  
+   ![LOGIN](https://user-images.githubusercontent.com/90704811/193010423-e25acfd3-bb0f-4490-8bd9-c0b6fe423776.png)
+
+   
+  * Once logged in, the Zones, Categories and Devices tabs will be available to the user. 
+  
+   ![HomeTab](https://user-images.githubusercontent.com/90704811/193009300-48689f72-f610-49e3-b643-920963aa7b27.png)
+   
+  * The user will use the "+" icon to Add Zones, Categories and Devices.
+  
+   ![Add](https://user-images.githubusercontent.com/90704811/193009869-3d283f9f-135b-4e9e-8e5d-0dad5d3db501.png) 
+   
+  * The user will use the pencil icon to Edit the existing Zones, Categories and Devices.
+  * The user will use the eye icon to View existing Zones, Categories and Devices on the Web App.
+  * The user will use the bin icon to Delete existing Zones, Categories and Devices on the web app from the database.
+  
+   ![Icons](https://user-images.githubusercontent.com/90704811/193010600-46d3a83b-0e32-4787-9b05-e0644fb3bc57.png)
+   
+  * All the entries will be saved and stored in the database database. 
+  * The user can logout, using "logout button" on the menu tab, once they have added, edited or deleted all the Zones, Categories and Devices.
+
+# Security
+  To nsure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
  ## Reference List
   https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase
