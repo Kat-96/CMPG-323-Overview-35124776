@@ -43,6 +43,9 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
 ## Project 1
   Number of Items By label
   ![Number of Items by Label](https://user-images.githubusercontent.com/90704811/202712319-92101276-640e-46f6-832b-93d8d362a370.png)
+  
+  Number of Items By Sprint
+  ![Number of Items by Sprint](https://user-images.githubusercontent.com/90704811/202713219-29d72763-9dcb-4e3b-945a-3ebb5b331295.png)
 
 
  ## Reference List
