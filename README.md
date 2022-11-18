@@ -295,6 +295,7 @@ to be enhanced and improved. Therefore, I:
   * The user can logout, using "logout button" on the menu tab, once they have added, edited or deleted all the Zones, Categories and Devices.
 
 # Security
-  To nsure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
+  To ensure that no credentials are stored on GitHub, I used the gitignore file to store any sensitive information
+  
  ## Reference List
   https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase
