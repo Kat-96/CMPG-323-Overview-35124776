@@ -48,7 +48,12 @@ For this project I will be creating a repo called [CMPG-323-Project3-35124776](h
   ![Number of Items by Sprint](https://user-images.githubusercontent.com/90704811/202713219-29d72763-9dcb-4e3b-945a-3ebb5b331295.png)
 
 ## Project 2
-   
+
+## Authorize
+#### Response
+  ![Authorization_Response](https://user-images.githubusercontent.com/90704811/189106951-42e3a336-f70e-454b-981f-cecfc9e4c770.png)
+  
+  
    Screenshot of API MANAGEMENT:
    
    ![API_MANAGEMENT](https://user-images.githubusercontent.com/90704811/189646362-63a5ae28-a95a-432a-b784-cf10ab40ae72.png)
