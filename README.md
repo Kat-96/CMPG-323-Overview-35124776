@@ -380,7 +380,3 @@ The filtering can be used to:
       * filter the report based on device registration date
 
 ![Filter](https://user-images.githubusercontent.com/90704811/200971867-ef2f3178-b713-42e2-815e-f89302b0440b.png)
-
-
- ## Reference List
-  https://www.flagship.io/git-branching-strategies/#:~:text=A%20branching%20strategy%2C%20therefore%2C%20is,interact%20with%20a%20shared%20codebase
